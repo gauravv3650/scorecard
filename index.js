@@ -47,7 +47,7 @@ function winning(){
         
     }
     else{
-        c.textContent = "Guest is Winning"
+        c.textContent = "Away is Winning"
     }
     
 }

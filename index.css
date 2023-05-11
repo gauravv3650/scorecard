@@ -36,12 +36,12 @@ color: #EEEEEE;
      display: flex;
     justify-content: center;
     margin-top: 10px;
-    height: 60px; /* increase the height to match the scorecard */
-    padding: 20px; /* increase the padding for more space */
-    background-color:#080001; /* set the background color to blue */
-    color: white; /* set the font color to white */
-    border: none; /* remove the border */
-    font-size: 20px; /* increase the font size */
+    height: 60px; 
+    padding: 20px; 
+    background-color:#080001; 
+    color: white; 
+    border: none; 
+    font-size: 20px;
   
 
 }
