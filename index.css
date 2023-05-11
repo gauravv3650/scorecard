@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    background-color: #131C42;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;   
+}
+.h3{
+    font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+
+
+text-align: center;
+
+color: #EEEEEE;
+
+}
+.scoreboard{
+ background: #080001;
+    width: 155px;
+    height: 120px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+}
+
+.btn {
+     display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    height: 60px; /* increase the height to match the scorecard */
+    padding: 20px; /* increase the padding for more space */
+    background-color:#080001; /* set the background color to blue */
+    color: white; /* set the font color to white */
+    border: none; /* remove the border */
+    font-size: 20px; /* increase the font size */
+  
+
+}
+
+
+#scorecard{
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+
+
+text-align: center;
+
+color: #F94F6D;
+
+}
+#scorecard2{
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+
+
+text-align: center;
+
+color: #F94F6D;
+
+}
+.win{
+    font-style: normal;
+font-weight: 150px;
+font-size: 40px;
+line-height: 100px;
+width: px;
+text-align: center;
+background-color: violet;
+
+}
+#ptag{
+    color:green;
+}
